@@ -5,23 +5,9 @@ Tags: widget, pages
 Requires at least: 1.0.1
 Stable tag: 1.0.1
 
-    * page-1
-          o page-1.1
-          o page-1.2
-                + page-1.2.1
-                + page-1.2.2
-                + page-1.2.3
-                + page-1.2.4
-          o page-1.3
-          o page-1.4
-    * page-2
-          o page-2.1
-          o page-2.2
-          o page-2.3
-          o page-2.4
-    * page-3
-    * page-4
-
+Nautic widget for the web-pages displaying.
+Wordpress is easy to use as simplest CMS for creation of small sites - “business card”. Easy installing, setting and friendly editor allows to administer web-site to ordinary user who don’t know HTML. Many similar sites include 10 or more static pages and column of news.
+Standard widget always displays all present pages, it can’t hide the hierarchy of inactive elements and as result we get long detailed list which not conform into a general design.
 
     * Hides inactive hierarchy if we are on “page-1” and shows one sublevel:
       page-1.1, page-1.2, page-1.3, page-1.4 all elements of the first level. The sublevel of “page-3” and sublevel of “page-1.2” will not be displayed.
