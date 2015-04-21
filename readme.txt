@@ -9,7 +9,8 @@ Nautic widget for the web-pages displaying.
 Wordpress is easy to use as simplest CMS for creation of small sites - business card.
 
 == Description ==
-= Этот плагин устарел. Смотрите новую версию плагина [Whale-Kit](http://wordpress.org/plugins/whale-kit/ "Whale-Kit")  =
+= This plugin is out of date. See the new version of the plugin:   =
+[Whale-Kit](http://wordpress.org/plugins/whale-kit/ "Whale-Kit") OR [Whale-Kit site](http://www.wp.od.ua/en/?page_id=242 "Whale-Kit site")
 Easy installing, setting and friendly editor allows to administer web-site to ordinary user who don’t know HTML. Many similar sites include 10 or more static pages and column of news.
 Standard widget always displays all present pages, it can’t hide the hierarchy of inactive elements and as result we get long detailed list which not conform into a general design.
 
