@@ -1,12 +1,16 @@
 === Nautic Pages ===
 Contributors: Stur
-Donate link: http://ili.com.ua/php/nautic-pages
+Donate link: http://wp.od.ua/en/
 Tags: widget, pages
 Requires at least: 1.0.1
 Stable tag: 1.0.1
 
 Nautic widget for the web-pages displaying.
-Wordpress is easy to use as simplest CMS for creation of small sites - “business card”. Easy installing, setting and friendly editor allows to administer web-site to ordinary user who don’t know HTML. Many similar sites include 10 or more static pages and column of news.
+Wordpress is easy to use as simplest CMS for creation of small sites - business card.
+
+== Description ==
+= Этот плагин устарел. Смотрите новую версию плагина [Whale-Kit](http://wordpress.org/plugins/whale-kit/ "Whale-Kit")  =
+Easy installing, setting and friendly editor allows to administer web-site to ordinary user who don’t know HTML. Many similar sites include 10 or more static pages and column of news.
 Standard widget always displays all present pages, it can’t hide the hierarchy of inactive elements and as result we get long detailed list which not conform into a general design.
 
     * Hides inactive hierarchy if we are on “page-1” and shows one sublevel:
@@ -42,10 +46,11 @@ Values can be: post_title, menu_order, ID.
 
 Example:
 
-if( function_exists( 'nautic_pages_path' ))
+`if( function_exists( 'nautic_pages_path' ))
 echo nautic_pages_path( array( 'separator' => '>', 'show_latest' => true));
-
+`
 or
 
-if( function_exists( 'nautic_pages_previous' ))
+`if( function_exists( 'nautic_pages_previous' ))
 echo nautic_pages_previous( $sortby );
+`
